@@ -61,7 +61,7 @@ TODO URL 記載
 
 ```
 $ npm install
-$ cdk bootstrap
+$ cdk synth
 $ cdk deploy
 ```
 
