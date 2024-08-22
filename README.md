@@ -1,7 +1,8 @@
 # 概要
 
 下記ブログにて紹介するシステムのソースです。
-TODO URL 記載
+
+https://agaroot-itp.com/?post_type=blog&p=2605
 
 # 各バージョン
 
