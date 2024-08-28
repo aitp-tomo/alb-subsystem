@@ -61,7 +61,7 @@ https://agaroot-itp.com/?post_type=blog&p=2605
 本ソースのトップディレクトリで、下記コマンドを実行します。
 
 ```
-$ npm install
+$ npm ci
 $ cdk synth
 $ cdk deploy
 ```
